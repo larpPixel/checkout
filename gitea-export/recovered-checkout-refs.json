@@ -1,0 +1,10 @@
+{
+  "upstream": "https://github.com/actions/checkout",
+  "reason": "Source Gitea repository directory missing. Recovered exact commit IDs recorded in Gitea release table.",
+  "refs": {
+    "refs/tags/main": "34e114876b0b11c390a56381ad16ebd13914f8d5",
+    "refs/tags/v4": "34e114876b0b11c390a56381ad16ebd13914f8d5",
+    "refs/tags/v3": "f43a0e5ff2bd294095638e18286ca9a3d1956744",
+    "refs/heads/main": "34e114876b0b11c390a56381ad16ebd13914f8d5"
+  }
+}

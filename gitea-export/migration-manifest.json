@@ -1,0 +1,26 @@
+{
+  "source": "actions/checkout",
+  "source_url": "https://git.jr4.in/actions/checkout",
+  "destination": "larpPixel/checkout",
+  "visibility": "public",
+  "default_branch": "main",
+  "original_git_refs": {
+    "source": "actions/checkout",
+    "name": "checkout",
+    "private": false,
+    "source_present": false,
+    "branches": {},
+    "tags": {},
+    "other_refs": {},
+    "oversized_blobs": []
+  },
+  "github_archival_ref_mapping": {},
+  "discussion_mapping": {},
+  "recovered_refs": {
+    "refs/tags/main": "34e114876b0b11c390a56381ad16ebd13914f8d5",
+    "refs/tags/v4": "34e114876b0b11c390a56381ad16ebd13914f8d5",
+    "refs/tags/v3": "f43a0e5ff2bd294095638e18286ca9a3d1956744",
+    "refs/heads/main": "34e114876b0b11c390a56381ad16ebd13914f8d5"
+  },
+  "limitations": []
+}
